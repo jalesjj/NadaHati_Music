@@ -22,9 +22,9 @@ A Flutter application that recommends music based on your current mood using Spo
 - 😠 **Angry** - Intense and aggressive music
 - 🎉 **Party** - Dance and celebration hits
 
-## Screenshots
+<!--## Screenshots
 
-[Add screenshots here when you build the app]
+[Add screenshots here when you build the app]-->
 
 ## Setup Instructions 🚀
 
