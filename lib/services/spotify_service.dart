@@ -6,8 +6,8 @@ import 'package:url_launcher/url_launcher.dart';
 import '../models/spotify_models.dart';
 
 class SpotifyService {
-  static const String clientId = 'a083afa7179a46e6821143902c5020c6';
-  static const String clientSecret = '05ef4a615d944968b7e4cc18c4614a1b';
+  static const String clientId = 'client_id';
+  static const String clientSecret = 'secret_client_id';
   static const String redirectUri = 'myapp://callback';
   static const String baseUrl = 'https://api.spotify.com/v1';
   static const String authUrl = 'https://accounts.spotify.com/authorize';
